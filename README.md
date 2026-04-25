@@ -1,55 +1,66 @@
-# :wave: Hi, I'm Samson
+<h1 align="center">Hi there, I'm SAMSON 👋</h1>
+<h3 align="center">A passionate developer exploring Ethical Hacking & Full Stack Web Development</h3>
 
-### :ocean: Full-Stack Web Developer
-*Merging Advanced Cybernetics with Ecological Conservation*
-
-![Hero Image](./assets/hero_image.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Ethical+Hacking+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
-## :rocket: Featured Project: **Marineroot**
-### *Underwater Cultivation & Environmental Impact Analysis System*
+### �‍💻 About Me
 
-**Marineroot** is a sophisticated modular application designed to analyze and optimize the manufacturing of underwater cultivation tools for seagrass growth. It leverages deep learning to predict durability and simulates environmental impact to ensure a positive ecological footprint.
+- �🔭 I’m currently working on a **Marinetool root manufacturing and impact analysis for seagrass growth**
+- 🌱 I’m currently learning **MERN Stack**
+-  Ask me about **Learning process**
+- 📫 How to reach me: **[sson76628@gmail.com](mailto:sson76628@gmail.com)**
+- 📝 Portfolio: *Coming Soon*
 
-#### **Core Modules & Capabilities**
-- :hammer_and_wrench: **SpecManager**: Precision definition of tool material specifications and oceanic parameters.
-  - :ocean: **AquaForge**: Advanced physical modeling for volume, surface area, and underwater weight calculations.
-    - :robot: **StressEval (AI Integration)**: State-of-the-art **TabNet Regressor** for predicting component durability and simulating pressure-test performance.
-       :seedling: **BioMonitor**: Biological success rate forecasting, estimating growth cycles and node distributions for seagrass species.
-      -  :earth_americas: **EcoReport**: Comprehensive environmental auditing, calculating annual CO2 sequestration and biodiversity protection scores.
-       
-         ![UI Mockup](./assets/ui_mockup.png)
-       
-        - --
+---
 
-        ## :hammer_and_wrench: Tech Stack & Expertise
-  - 
-        | Category | Technologies |
-        | :--- | :--- |
-        | **Languages** | Python, JavaScript (ES6+), HTML5, CSS3 |
-        | **Frameworks** | Django, React, FastAPI |
-        | **AI / ML** | PyTorch, TabNet, NumPy, Pandas |
-        | **Visuals** | Three.js (3D Rendering), Glassmorphism CSS |
-        | **Security** | AES-256 Encryption, Cybernetics-Secured Pipelines |
+### �️ Languages and Tools
 
-        ---
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <br><br>
+  <strong>Backend & Database:</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br><br>
+  <strong>Tools & Platform:</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-        ## :bar_chart: My GitHub Journey
+---
 
-        <p align="left">
-          <img src="https://github-readme-stats.vercel.app/api?username=HappySamson&show_icons=true&theme=tokyonight" alt="HappySamson's Stats" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySamson&layout=compact&theme=tokyonight" alt="Top Languages" />
-        </p>p>
+### 📊 GitHub Stats
 
-        ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj007A&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yuvaraj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj007A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
-        ## :mailbox: Connect with Me
-        - :briefcase: [LinkedIn](https://linkedin.com/in/happysamson)
-        -  :bird: [Twitter](https://twitter.com/happysamson)
-          -- :email: [Email](mailto:sson76628@gmail.com)
-           
-            - --
+---
 
-            *"Coding the future of our oceans, one node at a time."*
-            
+### 📌 Pinned Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yuvaraj007A">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
