@@ -1,6 +1,6 @@
-# :wave: Hi, I'm HappySamson
+# :wave: Hi, I'm Samson
 
-### :ocean: Full-Stack AI Engineer & Marine Systems Architect
+### :ocean: Full-Stack Web Developer
 *Merging Advanced Cybernetics with Ecological Conservation*
 
 ![Hero Image](./assets/hero_image.png)
