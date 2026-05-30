@@ -37,19 +37,14 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HappySamson&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Samson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySamson&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
----
 
 ### 📌 Pinned Projects
 
 | Project | Description | Link |
-|---------|-------------|------|
+|weather app|shows weather of the different cities|https://weather-app-mu-vert-76.vercel.app/|
+|Tic tac toe Game|game for mind relaxation|https://tictactoegame-dun.vercel.app/|
+|Quiz app|To aquire knowledge|https://quiz-app-one-roan-39.vercel.app/|
 
 
 ---
@@ -57,10 +52,10 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/sam-son-3491932a2i">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/mr.phoneix_03">
+  <a href="https://instagram.com/mr.phoneix_03](https://www.instagram.com/mr.phoenix_03?igsh=eTJldnh2ZGNmbjBx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
