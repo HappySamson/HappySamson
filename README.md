@@ -42,7 +42,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Weather app** | shows weather of the different cities|| [View Web App](https://weather-app-mu-vert-76.vercel.app/) |
+| **Weather app** | shows weather of the different cities|| [View Web App](https://weather-app-mu-vert-76.vercel.app/)|
 | **Tic tac toe Game** | game for mind relaxation| [View Web App](https://tictactoegame-dun.vercel.app/)|
 | **Quiz app** | To aquire knowledge| [View Web App](https://quiz-app-one-roan-39.vercel.app/)|
 ---
