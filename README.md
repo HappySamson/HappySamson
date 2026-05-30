@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm SAMSON 👋</h1>
-<h3 align="center">A passionate developer exploring Ethical Hacking & Full Stack Web Development</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Ethical+Hacking+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 -  Ask me about **Learning process**
 - 📫 How to reach me: **[sson76628@gmail.com](mailto:sson76628@gmail.com)**
-- 📝 Portfolio: *Coming Soon*
+- 📝 Portfolio: https://sam-portfolio-lyart-six.vercel.app/
 
 ---
 
